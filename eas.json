@@ -1,17 +1,16 @@
 {
-  "expo": {
-    "name": "Decision Wheel",
-    "slug": "decision-wheel",
-    "version": "1.0.0",
-    "orientation": "portrait",
-    "userInterfaceStyle": "dark",
-    "android": {
-      "package": "com.astroid.decisionwheel",
-      "versionCode": 1
+  "cli": {
+    "version": ">= 16.0.0"
+  },
+  "build": {
+    "preview": {
+      "android": {
+        "buildType": "apk"
+      }
     },
-    "extra": {
-      "eas": {
-        "projectId": "273e03e1-269f-4c06-9ecf-7f379fb82fdb"
+    "production": {
+      "android": {
+        "buildType": "app-bundle"
       }
     }
   }
