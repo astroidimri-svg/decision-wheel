@@ -1,0 +1,13 @@
+{
+  "expo": {
+    "name": "Decision Wheel",
+    "slug": "decision-wheel",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "android": {
+      "package": "com.astroid.decisionwheel",
+      "versionCode": 1
+    }
+  }
+}
