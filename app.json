@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "Decision Wheel",
-    "slug": "decision-wheel",
+    "slug": "decision-maker",
     "version": "1.0.0",
     "orientation": "portrait",
     "userInterfaceStyle": "dark",
