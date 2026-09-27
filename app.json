@@ -8,6 +8,11 @@
     "android": {
       "package": "com.astroid.decisionwheel",
       "versionCode": 1
+    },
+    "extra": {
+      "eas": {
+        "projectId": "273e03e1-269f-4c06-9ecf-7f379fb82fdb"
+      }
     }
   }
 }
